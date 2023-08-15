@@ -1,7 +1,7 @@
 <img src="https://media.licdn.com/dms/image/D5616AQEignI98HHA0Q/profile-displaybackgroundimage-shrink_350_1400/0/1691913307407?e=1697673600&v=beta&t=uuqJglmiBBj4dU-LyIaH_IHHH-EUK2x7r2i5Z8Dh7kk">
 <h1 align="center">Hi 👋, I'm Zuhayer Anjum</h1>
 <h3 align="center">Web Developer | Boost Your Business Potential Customer's Expansion Through Tailored Strategies | Helping Business to Properly Grow With Digital Marketing</h3>
-<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" width="400px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjum145&label=Profile%20views&color=0e75b6&style=flat" alt="anjum145" /> </p>
 
