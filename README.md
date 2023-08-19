@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D5616AQEH81BiopQF_w/profile-displaybackgroundimage-shrink_350_1400/0/1692450473438?e=1697673600&v=beta&t=UCXK5g4gzwiOoeHGbUOfJwYSQOZqQfzif4ex__J7MsM">
+<img style="border-radius: 20px" src="https://media.licdn.com/dms/image/D5616AQEH81BiopQF_w/profile-displaybackgroundimage-shrink_350_1400/0/1692450473438?e=1697673600&v=beta&t=UCXK5g4gzwiOoeHGbUOfJwYSQOZqQfzif4ex__J7MsM">
 <h1 align="center" style="font-family: sans-serif;">Hi 👋, I'm Zuhayer Anjum</h1>
 <h3 align="center">Web Developer | Boost Your Business Potential Customer's Expansion Through Tailored Strategies | Helping Business to Properly Grow With Digital Marketing</h3>
 <img align="right" width="400px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
